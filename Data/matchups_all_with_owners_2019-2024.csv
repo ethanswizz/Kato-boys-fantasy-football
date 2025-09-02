@@ -1,0 +1,1051 @@
+season,week,matchup_id,is_playoff,is_consolation,home_team_id,home_team_name,home_score,away_team_id,away_team_name,away_score,winner,margin,home_owner_name,away_owner_name,home_owner_slug,away_owner_slug
+2019,1,,0,0,7,Krafts Massage Parlor ,122.0,2,Cincinnati Gun Owners Club,124.0,Cincinnati Gun Owners Club,2.0,Justin,Gerson,justin,gerson
+2019,1,,0,0,5,McDonalds all Day breakfast ,113.0,8,Team King,129.0,Team King,16.0,Max,Connor,max,connor
+2019,1,,0,0,9,McLaurin F1,101.0,10,K-Pop  Superstars,112.0,K-Pop  Superstars,11.0,Tyler,Tanner,tyler,tanner
+2019,1,,0,0,4,1017 BrickSquad,94.0,1,Shoneys Squanch Squad,185.0,Shoneys Squanch Squad,91.0,Mike,Ethan,mike,ethan
+2019,1,,0,0,3,Mr. Rodgers hood 12 bitch,118.0,6,Hunt's Hit Squad,114.0,Mr. Rodgers hood 12 bitch,4.0,Matt,Nathaniel,matt,nathaniel
+2019,2,,0,0,8,Team King,135.0,10,K-Pop  Superstars,144.0,K-Pop  Superstars,9.0,Connor,Tanner,connor,tanner
+2019,2,,0,0,1,Shoneys Squanch Squad,116.0,7,Krafts Massage Parlor ,129.0,Krafts Massage Parlor ,13.0,Ethan,Justin,ethan,justin
+2019,2,,0,0,6,Hunt's Hit Squad,84.0,2,Cincinnati Gun Owners Club,99.0,Cincinnati Gun Owners Club,15.0,Nathaniel,Gerson,nathaniel,gerson
+2019,2,,0,0,4,1017 BrickSquad,87.0,5,McDonalds all Day breakfast ,100.0,McDonalds all Day breakfast ,13.0,Mike,Max,mike,max
+2019,2,,0,0,3,Mr. Rodgers hood 12 bitch,123.0,9,McLaurin F1,101.0,Mr. Rodgers hood 12 bitch,22.0,Matt,Tyler,matt,tyler
+2019,3,,0,0,1,Shoneys Squanch Squad,156.0,6,Hunt's Hit Squad,129.0,Shoneys Squanch Squad,27.0,Ethan,Nathaniel,ethan,nathaniel
+2019,3,,0,0,8,Team King,139.0,4,1017 BrickSquad,148.0,1017 BrickSquad,9.0,Connor,Mike,connor,mike
+2019,3,,0,0,10,K-Pop  Superstars,101.0,3,Mr. Rodgers hood 12 bitch,139.0,Mr. Rodgers hood 12 bitch,38.0,Tanner,Matt,tanner,matt
+2019,3,,0,0,7,Krafts Massage Parlor ,107.0,5,McDonalds all Day breakfast ,134.0,McDonalds all Day breakfast ,27.0,Justin,Max,justin,max
+2019,3,,0,0,2,Cincinnati Gun Owners Club,116.0,9,McLaurin F1,108.0,Cincinnati Gun Owners Club,8.0,Gerson,Tyler,gerson,tyler
+2019,4,,0,0,4,1017 BrickSquad,99.0,3,Mr. Rodgers hood 12 bitch,115.0,Mr. Rodgers hood 12 bitch,16.0,Mike,Matt,mike,matt
+2019,4,,0,0,5,McDonalds all Day breakfast ,108.0,1,Shoneys Squanch Squad,80.0,McDonalds all Day breakfast ,28.0,Max,Ethan,max,ethan
+2019,4,,0,0,9,McLaurin F1,141.0,6,Hunt's Hit Squad,103.0,McLaurin F1,38.0,Tyler,Nathaniel,tyler,nathaniel
+2019,4,,0,0,7,Krafts Massage Parlor ,77.0,8,Team King,173.0,Team King,96.0,Justin,Connor,justin,connor
+2019,4,,0,0,2,Cincinnati Gun Owners Club,120.0,10,K-Pop  Superstars,99.0,Cincinnati Gun Owners Club,21.0,Gerson,Tanner,gerson,tanner
+2019,5,,0,0,5,McDonalds all Day breakfast ,102.0,9,McLaurin F1,118.0,McLaurin F1,16.0,Max,Tyler,max,tyler
+2019,5,,0,0,4,1017 BrickSquad,129.0,7,Krafts Massage Parlor ,123.0,1017 BrickSquad,6.0,Mike,Justin,mike,justin
+2019,5,,0,0,3,Mr. Rodgers hood 12 bitch,132.0,2,Cincinnati Gun Owners Club,119.0,Mr. Rodgers hood 12 bitch,13.0,Matt,Gerson,matt,gerson
+2019,5,,0,0,1,Shoneys Squanch Squad,98.0,8,Team King,169.0,Team King,71.0,Ethan,Connor,ethan,connor
+2019,5,,0,0,6,Hunt's Hit Squad,149.0,10,K-Pop  Superstars,172.0,K-Pop  Superstars,23.0,Nathaniel,Tanner,nathaniel,tanner
+2019,6,,0,0,2,Cincinnati Gun Owners Club,123.0,8,Team King,79.0,Cincinnati Gun Owners Club,44.0,Gerson,Connor,gerson,connor
+2019,6,,0,0,10,K-Pop  Superstars,110.0,1,Shoneys Squanch Squad,107.0,K-Pop  Superstars,3.0,Tanner,Ethan,tanner,ethan
+2019,6,,0,0,6,Hunt's Hit Squad,122.0,4,1017 BrickSquad,135.0,1017 BrickSquad,13.0,Nathaniel,Mike,nathaniel,mike
+2019,6,,0,0,3,Mr. Rodgers hood 12 bitch,138.0,5,McDonalds all Day breakfast ,117.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Max,matt,max
+2019,6,,0,0,9,McLaurin F1,111.0,7,Krafts Massage Parlor ,127.0,Krafts Massage Parlor ,16.0,Tyler,Justin,tyler,justin
+2019,7,,0,0,1,Shoneys Squanch Squad,89.0,2,Cincinnati Gun Owners Club,118.0,Cincinnati Gun Owners Club,29.0,Ethan,Gerson,ethan,gerson
+2019,7,,0,0,4,1017 BrickSquad,97.0,10,K-Pop  Superstars,74.0,1017 BrickSquad,23.0,Mike,Tanner,mike,tanner
+2019,7,,0,0,5,McDonalds all Day breakfast ,66.0,6,Hunt's Hit Squad,133.0,Hunt's Hit Squad,67.0,Max,Nathaniel,max,nathaniel
+2019,7,,0,0,7,Krafts Massage Parlor ,104.0,3,Mr. Rodgers hood 12 bitch,96.0,Krafts Massage Parlor ,8.0,Justin,Matt,justin,matt
+2019,7,,0,0,8,Team King,116.0,9,McLaurin F1,77.0,Team King,39.0,Connor,Tyler,connor,tyler
+2019,8,,0,0,2,Cincinnati Gun Owners Club,141.0,4,1017 BrickSquad,150.0,1017 BrickSquad,9.0,Gerson,Mike,gerson,mike
+2019,8,,0,0,10,K-Pop  Superstars,115.0,5,McDonalds all Day breakfast ,95.0,K-Pop  Superstars,20.0,Tanner,Max,tanner,max
+2019,8,,0,0,6,Hunt's Hit Squad,168.0,7,Krafts Massage Parlor ,85.0,Hunt's Hit Squad,83.0,Nathaniel,Justin,nathaniel,justin
+2019,8,,0,0,3,Mr. Rodgers hood 12 bitch,138.0,8,Team King,126.0,Mr. Rodgers hood 12 bitch,12.0,Matt,Connor,matt,connor
+2019,8,,0,0,9,McLaurin F1,146.0,1,Shoneys Squanch Squad,123.0,McLaurin F1,23.0,Tyler,Ethan,tyler,ethan
+2019,9,,0,0,5,McDonalds all Day breakfast ,133.0,2,Cincinnati Gun Owners Club,151.0,Cincinnati Gun Owners Club,18.0,Max,Gerson,max,gerson
+2019,9,,0,0,7,Krafts Massage Parlor ,96.0,4,1017 BrickSquad,153.0,1017 BrickSquad,57.0,Justin,Mike,justin,mike
+2019,9,,0,0,10,K-Pop  Superstars,129.0,9,McLaurin F1,103.0,K-Pop  Superstars,26.0,Tanner,Tyler,tanner,tyler
+2019,9,,0,0,8,Team King,100.0,1,Shoneys Squanch Squad,78.0,Team King,22.0,Connor,Ethan,connor,ethan
+2019,9,,0,0,6,Hunt's Hit Squad,107.0,3,Mr. Rodgers hood 12 bitch,93.0,Hunt's Hit Squad,14.0,Nathaniel,Matt,nathaniel,matt
+2019,10,,0,0,7,Krafts Massage Parlor ,106.0,10,K-Pop  Superstars,82.0,Krafts Massage Parlor ,24.0,Justin,Tanner,justin,tanner
+2019,10,,0,0,8,Team King,109.0,5,McDonalds all Day breakfast ,94.0,Team King,15.0,Connor,Max,connor,max
+2019,10,,0,0,2,Cincinnati Gun Owners Club,181.0,6,Hunt's Hit Squad,133.0,Cincinnati Gun Owners Club,48.0,Gerson,Nathaniel,gerson,nathaniel
+2019,10,,0,0,1,Shoneys Squanch Squad,90.0,4,1017 BrickSquad,112.0,1017 BrickSquad,22.0,Ethan,Mike,ethan,mike
+2019,10,,0,0,9,McLaurin F1,148.0,3,Mr. Rodgers hood 12 bitch,126.0,McLaurin F1,22.0,Tyler,Matt,tyler,matt
+2019,11,,0,0,8,Team King,96.0,6,Hunt's Hit Squad,126.0,Hunt's Hit Squad,30.0,Connor,Nathaniel,connor,nathaniel
+2019,11,,0,0,7,Krafts Massage Parlor ,114.0,1,Shoneys Squanch Squad,68.0,Krafts Massage Parlor ,46.0,Justin,Ethan,justin,ethan
+2019,11,,0,0,3,Mr. Rodgers hood 12 bitch,150.0,10,K-Pop  Superstars,135.0,Mr. Rodgers hood 12 bitch,15.0,Matt,Tanner,matt,tanner
+2019,11,,0,0,5,McDonalds all Day breakfast ,66.0,4,1017 BrickSquad,112.0,1017 BrickSquad,46.0,Max,Mike,max,mike
+2019,11,,0,0,9,McLaurin F1,119.0,2,Cincinnati Gun Owners Club,154.0,Cincinnati Gun Owners Club,35.0,Tyler,Gerson,tyler,gerson
+2019,12,,0,0,1,Shoneys Squanch Squad,98.0,3,Mr. Rodgers hood 12 bitch,104.0,Mr. Rodgers hood 12 bitch,6.0,Ethan,Matt,ethan,matt
+2019,12,,0,0,4,1017 BrickSquad,66.0,8,Team King,98.0,Team King,32.0,Mike,Connor,mike,connor
+2019,12,,0,0,6,Hunt's Hit Squad,164.0,9,McLaurin F1,148.0,Hunt's Hit Squad,16.0,Nathaniel,Tyler,nathaniel,tyler
+2019,12,,0,0,5,McDonalds all Day breakfast ,73.0,7,Krafts Massage Parlor ,93.0,Krafts Massage Parlor ,20.0,Max,Justin,max,justin
+2019,12,,0,0,10,K-Pop  Superstars,106.0,2,Cincinnati Gun Owners Club,123.0,Cincinnati Gun Owners Club,17.0,Tanner,Gerson,tanner,gerson
+2019,13,,0,0,4,1017 BrickSquad,104.0,9,McLaurin F1,111.0,McLaurin F1,7.0,Mike,Tyler,mike,tyler
+2019,13,,0,0,1,Shoneys Squanch Squad,96.0,5,McDonalds all Day breakfast ,102.0,McDonalds all Day breakfast ,6.0,Ethan,Max,ethan,max
+2019,13,,0,0,2,Cincinnati Gun Owners Club,129.0,3,Mr. Rodgers hood 12 bitch,98.0,Cincinnati Gun Owners Club,31.0,Gerson,Matt,gerson,matt
+2019,13,,0,0,8,Team King,98.0,7,Krafts Massage Parlor ,114.0,Krafts Massage Parlor ,16.0,Connor,Justin,connor,justin
+2019,13,,0,0,10,K-Pop  Superstars,68.0,6,Hunt's Hit Squad,97.0,Hunt's Hit Squad,29.0,Tanner,Nathaniel,tanner,nathaniel
+2019,14,,1,0,2,Cincinnati Gun Owners Club,134.0,9,McLaurin F1,130.0,Cincinnati Gun Owners Club,4.0,Gerson,Tyler,gerson,tyler
+2019,14,,1,0,8,Team King,159.0,7,Krafts Massage Parlor ,128.0,Team King,31.0,Connor,Justin,connor,justin
+2019,14,,1,0,3,Mr. Rodgers hood 12 bitch,111.0,6,Hunt's Hit Squad,127.0,Hunt's Hit Squad,16.0,Matt,Nathaniel,matt,nathaniel
+2019,14,,1,0,4,1017 BrickSquad,94.0,10,K-Pop  Superstars,126.0,K-Pop  Superstars,32.0,Mike,Tanner,mike,tanner
+2019,14,,1,0,5,McDonalds all Day breakfast ,77.0,1,Shoneys Squanch Squad,99.0,Shoneys Squanch Squad,22.0,Max,Ethan,max,ethan
+2019,15,,1,0,2,Cincinnati Gun Owners Club,127.0,8,Team King,100.0,Cincinnati Gun Owners Club,27.0,Gerson,Connor,gerson,connor
+2019,15,,1,0,6,Hunt's Hit Squad,132.0,10,K-Pop  Superstars,195.0,K-Pop  Superstars,63.0,Nathaniel,Tanner,nathaniel,tanner
+2019,15,,1,0,4,1017 BrickSquad,126.0,3,Mr. Rodgers hood 12 bitch,90.0,1017 BrickSquad,36.0,Mike,Matt,mike,matt
+2019,15,,1,0,7,Krafts Massage Parlor ,118.0,9,McLaurin F1,133.0,McLaurin F1,15.0,Justin,Tyler,justin,tyler
+2019,15,,1,0,5,McDonalds all Day breakfast ,109.0,1,Shoneys Squanch Squad,85.0,McDonalds all Day breakfast ,24.0,Max,Ethan,max,ethan
+2019,16,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,16,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,16,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,16,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,16,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,17,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,17,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,17,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,17,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,17,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,18,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,18,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,18,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,18,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,18,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,19,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,19,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,19,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,19,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,19,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,20,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,20,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,20,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,20,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,20,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,21,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,21,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,21,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,21,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,21,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,22,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,22,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,22,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,22,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,22,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,23,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,23,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,23,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,23,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,23,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,24,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,24,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,24,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,24,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,24,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,25,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,25,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,25,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,25,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,25,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,26,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,26,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,26,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,26,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,26,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,27,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,27,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,27,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,27,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,27,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,28,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,28,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,28,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,28,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,28,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,29,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,29,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,29,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,29,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,29,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,30,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,30,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,30,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,30,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,30,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,31,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,31,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,31,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,31,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,31,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,32,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,32,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,32,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,32,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,32,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,33,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,33,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,33,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,33,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,33,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,34,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,34,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,34,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,34,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,34,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2019,35,,1,0,2,Cincinnati Gun Owners Club,152.0,10,K-Pop  Superstars,125.0,Cincinnati Gun Owners Club,27.0,Gerson,Tanner,gerson,tanner
+2019,35,,1,0,8,Team King,119.0,6,Hunt's Hit Squad,132.0,Hunt's Hit Squad,13.0,Connor,Nathaniel,connor,nathaniel
+2019,35,,1,0,4,1017 BrickSquad,114.0,9,McLaurin F1,143.0,McLaurin F1,29.0,Mike,Tyler,mike,tyler
+2019,35,,1,0,3,Mr. Rodgers hood 12 bitch,118.0,7,Krafts Massage Parlor ,88.0,Mr. Rodgers hood 12 bitch,30.0,Matt,Justin,matt,justin
+2019,35,,1,0,5,McDonalds all Day breakfast ,73.0,1,Shoneys Squanch Squad,64.0,McDonalds all Day breakfast ,9.0,Max,Ethan,max,ethan
+2020,1,,0,0,7,Krafts Massage Parlor ,161.0,2,Cincinnati Gun Owners Club,101.0,Krafts Massage Parlor ,60.0,Justin,Gerson,justin,gerson
+2020,1,,0,0,5,McDonalds all Day breakfast ,118.0,8,Team King,106.0,McDonalds all Day breakfast ,12.0,Max,Connor,max,connor
+2020,1,,0,0,9,CeeDeez  Nuts,87.0,10,Beta Boys,128.0,Beta Boys,41.0,Tyler,Tanner,tyler,tanner
+2020,1,,0,0,4,Gang $hit Fam,120.0,1,Shoneys Squanch Squad,133.0,Shoneys Squanch Squad,13.0,Mike,Ethan,mike,ethan
+2020,1,,0,0,3,Mr. Rodgers hood 12 bitch,130.0,6,Fresh Prince Of Helaire,148.0,Fresh Prince Of Helaire,18.0,Matt,Nathaniel,matt,nathaniel
+2020,2,,0,0,8,Team King,115.0,10,Beta Boys,149.0,Beta Boys,34.0,Connor,Tanner,connor,tanner
+2020,2,,0,0,1,Shoneys Squanch Squad,151.0,7,Krafts Massage Parlor ,127.0,Shoneys Squanch Squad,24.0,Ethan,Justin,ethan,justin
+2020,2,,0,0,6,Fresh Prince Of Helaire,167.0,2,Cincinnati Gun Owners Club,110.0,Fresh Prince Of Helaire,57.0,Nathaniel,Gerson,nathaniel,gerson
+2020,2,,0,0,4,Gang $hit Fam,148.0,5,McDonalds all Day breakfast ,131.0,Gang $hit Fam,17.0,Mike,Max,mike,max
+2020,2,,0,0,3,Mr. Rodgers hood 12 bitch,130.0,9,CeeDeez  Nuts,110.0,Mr. Rodgers hood 12 bitch,20.0,Matt,Tyler,matt,tyler
+2020,3,,0,0,1,Shoneys Squanch Squad,110.0,6,Fresh Prince Of Helaire,141.0,Fresh Prince Of Helaire,31.0,Ethan,Nathaniel,ethan,nathaniel
+2020,3,,0,0,8,Team King,120.0,4,Gang $hit Fam,170.0,Gang $hit Fam,50.0,Connor,Mike,connor,mike
+2020,3,,0,0,10,Beta Boys,114.0,3,Mr. Rodgers hood 12 bitch,121.0,Mr. Rodgers hood 12 bitch,7.0,Tanner,Matt,tanner,matt
+2020,3,,0,0,7,Krafts Massage Parlor ,114.0,5,McDonalds all Day breakfast ,131.0,McDonalds all Day breakfast ,17.0,Justin,Max,justin,max
+2020,3,,0,0,2,Cincinnati Gun Owners Club,138.0,9,CeeDeez  Nuts,140.0,CeeDeez  Nuts,2.0,Gerson,Tyler,gerson,tyler
+2020,4,,0,0,4,Gang $hit Fam,104.0,3,Mr. Rodgers hood 12 bitch,167.0,Mr. Rodgers hood 12 bitch,63.0,Mike,Matt,mike,matt
+2020,4,,0,0,5,McDonalds all Day breakfast ,115.0,1,Shoneys Squanch Squad,112.0,McDonalds all Day breakfast ,3.0,Max,Ethan,max,ethan
+2020,4,,0,0,9,CeeDeez  Nuts,100.0,6,Fresh Prince Of Helaire,134.0,Fresh Prince Of Helaire,34.0,Tyler,Nathaniel,tyler,nathaniel
+2020,4,,0,0,7,Krafts Massage Parlor ,137.0,8,Team King,138.0,Team King,1.0,Justin,Connor,justin,connor
+2020,4,,0,0,2,Cincinnati Gun Owners Club,108.0,10,Beta Boys,91.0,Cincinnati Gun Owners Club,17.0,Gerson,Tanner,gerson,tanner
+2020,5,,0,0,5,McDonalds all Day breakfast ,115.0,9,CeeDeez  Nuts,109.0,McDonalds all Day breakfast ,6.0,Max,Tyler,max,tyler
+2020,5,,0,0,4,Gang $hit Fam,140.0,7,Krafts Massage Parlor ,111.0,Gang $hit Fam,29.0,Mike,Justin,mike,justin
+2020,5,,0,0,3,Mr. Rodgers hood 12 bitch,130.0,2,Cincinnati Gun Owners Club,106.0,Mr. Rodgers hood 12 bitch,24.0,Matt,Gerson,matt,gerson
+2020,5,,0,0,1,Shoneys Squanch Squad,168.0,8,Team King,109.0,Shoneys Squanch Squad,59.0,Ethan,Connor,ethan,connor
+2020,5,,0,0,6,Fresh Prince Of Helaire,87.0,10,Beta Boys,108.0,Beta Boys,21.0,Nathaniel,Tanner,nathaniel,tanner
+2020,6,,0,0,2,Cincinnati Gun Owners Club,95.0,8,Team King,119.0,Team King,24.0,Gerson,Connor,gerson,connor
+2020,6,,0,0,10,Beta Boys,102.0,1,Shoneys Squanch Squad,131.0,Shoneys Squanch Squad,29.0,Tanner,Ethan,tanner,ethan
+2020,6,,0,0,6,Fresh Prince Of Helaire,99.0,4,Gang $hit Fam,100.0,Gang $hit Fam,1.0,Nathaniel,Mike,nathaniel,mike
+2020,6,,0,0,3,Mr. Rodgers hood 12 bitch,73.0,5,McDonalds all Day breakfast ,100.0,McDonalds all Day breakfast ,27.0,Matt,Max,matt,max
+2020,6,,0,0,9,CeeDeez  Nuts,113.0,7,Krafts Massage Parlor ,114.0,Krafts Massage Parlor ,1.0,Tyler,Justin,tyler,justin
+2020,7,,0,0,1,Shoneys Squanch Squad,97.0,2,Cincinnati Gun Owners Club,103.0,Cincinnati Gun Owners Club,6.0,Ethan,Gerson,ethan,gerson
+2020,7,,0,0,4,Gang $hit Fam,133.0,10,Beta Boys,149.0,Beta Boys,16.0,Mike,Tanner,mike,tanner
+2020,7,,0,0,5,McDonalds all Day breakfast ,92.0,6,Fresh Prince Of Helaire,164.0,Fresh Prince Of Helaire,72.0,Max,Nathaniel,max,nathaniel
+2020,7,,0,0,7,Krafts Massage Parlor ,114.0,3,Mr. Rodgers hood 12 bitch,155.0,Mr. Rodgers hood 12 bitch,41.0,Justin,Matt,justin,matt
+2020,7,,0,0,8,Team King,97.0,9,CeeDeez  Nuts,93.0,Team King,4.0,Connor,Tyler,connor,tyler
+2020,8,,0,0,2,Cincinnati Gun Owners Club,80.0,4,Gang $hit Fam,126.0,Gang $hit Fam,46.0,Gerson,Mike,gerson,mike
+2020,8,,0,0,10,Beta Boys,97.0,5,McDonalds all Day breakfast ,109.0,McDonalds all Day breakfast ,12.0,Tanner,Max,tanner,max
+2020,8,,0,0,6,Fresh Prince Of Helaire,105.0,7,Krafts Massage Parlor ,72.0,Fresh Prince Of Helaire,33.0,Nathaniel,Justin,nathaniel,justin
+2020,8,,0,0,3,Mr. Rodgers hood 12 bitch,140.0,8,Team King,102.0,Mr. Rodgers hood 12 bitch,38.0,Matt,Connor,matt,connor
+2020,8,,0,0,9,CeeDeez  Nuts,110.0,1,Shoneys Squanch Squad,115.0,Shoneys Squanch Squad,5.0,Tyler,Ethan,tyler,ethan
+2020,9,,0,0,5,McDonalds all Day breakfast ,96.0,2,Cincinnati Gun Owners Club,112.0,Cincinnati Gun Owners Club,16.0,Max,Gerson,max,gerson
+2020,9,,0,0,7,Krafts Massage Parlor ,79.0,4,Gang $hit Fam,118.0,Gang $hit Fam,39.0,Justin,Mike,justin,mike
+2020,9,,0,0,10,Beta Boys,128.0,9,CeeDeez  Nuts,63.0,Beta Boys,65.0,Tanner,Tyler,tanner,tyler
+2020,9,,0,0,8,Team King,108.0,1,Shoneys Squanch Squad,176.0,Shoneys Squanch Squad,68.0,Connor,Ethan,connor,ethan
+2020,9,,0,0,6,Fresh Prince Of Helaire,99.0,3,Mr. Rodgers hood 12 bitch,143.0,Mr. Rodgers hood 12 bitch,44.0,Nathaniel,Matt,nathaniel,matt
+2020,10,,0,0,7,Krafts Massage Parlor ,73.0,10,Beta Boys,84.0,Beta Boys,11.0,Justin,Tanner,justin,tanner
+2020,10,,0,0,8,Team King,107.0,5,McDonalds all Day breakfast ,102.0,Team King,5.0,Connor,Max,connor,max
+2020,10,,0,0,2,Cincinnati Gun Owners Club,125.0,6,Fresh Prince Of Helaire,101.0,Cincinnati Gun Owners Club,24.0,Gerson,Nathaniel,gerson,nathaniel
+2020,10,,0,0,1,Shoneys Squanch Squad,90.0,4,Gang $hit Fam,148.0,Gang $hit Fam,58.0,Ethan,Mike,ethan,mike
+2020,10,,0,0,9,CeeDeez  Nuts,102.0,3,Mr. Rodgers hood 12 bitch,115.0,Mr. Rodgers hood 12 bitch,13.0,Tyler,Matt,tyler,matt
+2020,11,,0,0,8,Team King,109.0,6,Fresh Prince Of Helaire,137.0,Fresh Prince Of Helaire,28.0,Connor,Nathaniel,connor,nathaniel
+2020,11,,0,0,7,Krafts Massage Parlor ,103.0,1,Shoneys Squanch Squad,103.0,TIE,0.0,Justin,Ethan,justin,ethan
+2020,11,,0,0,3,Mr. Rodgers hood 12 bitch,139.0,10,Beta Boys,122.0,Mr. Rodgers hood 12 bitch,17.0,Matt,Tanner,matt,tanner
+2020,11,,0,0,5,McDonalds all Day breakfast ,106.0,4,Gang $hit Fam,139.0,Gang $hit Fam,33.0,Max,Mike,max,mike
+2020,11,,0,0,9,CeeDeez  Nuts,100.0,2,Cincinnati Gun Owners Club,125.0,Cincinnati Gun Owners Club,25.0,Tyler,Gerson,tyler,gerson
+2020,12,,0,0,1,Shoneys Squanch Squad,147.0,3,Mr. Rodgers hood 12 bitch,137.0,Shoneys Squanch Squad,10.0,Ethan,Matt,ethan,matt
+2020,12,,0,0,4,Gang $hit Fam,85.0,8,Team King,154.0,Team King,69.0,Mike,Connor,mike,connor
+2020,12,,0,0,6,Fresh Prince Of Helaire,100.0,9,CeeDeez  Nuts,155.0,CeeDeez  Nuts,55.0,Nathaniel,Tyler,nathaniel,tyler
+2020,12,,0,0,5,McDonalds all Day breakfast ,108.0,7,Krafts Massage Parlor ,72.0,McDonalds all Day breakfast ,36.0,Max,Justin,max,justin
+2020,12,,0,0,10,Beta Boys,111.0,2,Cincinnati Gun Owners Club,144.0,Cincinnati Gun Owners Club,33.0,Tanner,Gerson,tanner,gerson
+2020,13,,0,0,4,Gang $hit Fam,98.0,9,CeeDeez  Nuts,99.0,CeeDeez  Nuts,1.0,Mike,Tyler,mike,tyler
+2020,13,,0,0,1,Shoneys Squanch Squad,110.0,5,McDonalds all Day breakfast ,113.0,McDonalds all Day breakfast ,3.0,Ethan,Max,ethan,max
+2020,13,,0,0,2,Cincinnati Gun Owners Club,118.0,3,Mr. Rodgers hood 12 bitch,133.0,Mr. Rodgers hood 12 bitch,15.0,Gerson,Matt,gerson,matt
+2020,13,,0,0,8,Team King,122.0,7,Krafts Massage Parlor ,109.0,Team King,13.0,Connor,Justin,connor,justin
+2020,13,,0,0,10,Beta Boys,124.0,6,Fresh Prince Of Helaire,132.0,Fresh Prince Of Helaire,8.0,Tanner,Nathaniel,tanner,nathaniel
+2020,14,,1,0,3,Mr. Rodgers hood 12 bitch,176.0,2,Cincinnati Gun Owners Club,132.0,Mr. Rodgers hood 12 bitch,44.0,Matt,Gerson,matt,gerson
+2020,14,,1,0,6,Fresh Prince Of Helaire,94.0,5,McDonalds all Day breakfast ,77.0,Fresh Prince Of Helaire,17.0,Nathaniel,Max,nathaniel,max
+2020,14,,1,0,4,Gang $hit Fam,109.0,10,Beta Boys,137.0,Beta Boys,28.0,Mike,Tanner,mike,tanner
+2020,14,,1,0,1,Shoneys Squanch Squad,122.0,8,Team King,138.0,Team King,16.0,Ethan,Connor,ethan,connor
+2020,14,,1,0,9,CeeDeez  Nuts,122.0,7,Krafts Massage Parlor ,64.0,CeeDeez  Nuts,58.0,Tyler,Justin,tyler,justin
+2020,15,,1,0,3,Mr. Rodgers hood 12 bitch,147.0,6,Fresh Prince Of Helaire,136.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Nathaniel,matt,nathaniel
+2020,15,,1,0,10,Beta Boys,103.0,8,Team King,106.0,Team King,3.0,Tanner,Connor,tanner,connor
+2020,15,,1,0,1,Shoneys Squanch Squad,136.0,4,Gang $hit Fam,107.0,Shoneys Squanch Squad,29.0,Ethan,Mike,ethan,mike
+2020,15,,1,0,5,McDonalds all Day breakfast ,103.0,2,Cincinnati Gun Owners Club,159.0,Cincinnati Gun Owners Club,56.0,Max,Gerson,max,gerson
+2020,15,,1,0,9,CeeDeez  Nuts,142.0,7,Krafts Massage Parlor ,73.0,CeeDeez  Nuts,69.0,Tyler,Justin,tyler,justin
+2020,16,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,16,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,16,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,16,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,16,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,17,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,17,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,17,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,17,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,17,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,18,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,18,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,18,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,18,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,18,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,19,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,19,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,19,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,19,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,19,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,20,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,20,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,20,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,20,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,20,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,21,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,21,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,21,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,21,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,21,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,22,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,22,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,22,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,22,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,22,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,23,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,23,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,23,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,23,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,23,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,24,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,24,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,24,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,24,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,24,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,25,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,25,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,25,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,25,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,25,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,26,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,26,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,26,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,26,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,26,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,27,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,27,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,27,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,27,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,27,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,28,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,28,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,28,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,28,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,28,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,29,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,29,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,29,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,29,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,29,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,30,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,30,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,30,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,30,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,30,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,31,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,31,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,31,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,31,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,31,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,32,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,32,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,32,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,32,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,32,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,33,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,33,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,33,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,33,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,33,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,34,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,34,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,34,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,34,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,34,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2020,35,,1,0,3,Mr. Rodgers hood 12 bitch,132.0,8,Team King,111.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Connor,matt,connor
+2020,35,,1,0,6,Fresh Prince Of Helaire,117.0,10,Beta Boys,150.0,Beta Boys,33.0,Nathaniel,Tanner,nathaniel,tanner
+2020,35,,1,0,1,Shoneys Squanch Squad,137.0,2,Cincinnati Gun Owners Club,128.0,Shoneys Squanch Squad,9.0,Ethan,Gerson,ethan,gerson
+2020,35,,1,0,4,Gang $hit Fam,174.0,5,McDonalds all Day breakfast ,110.0,Gang $hit Fam,64.0,Mike,Max,mike,max
+2020,35,,1,0,9,CeeDeez  Nuts,98.0,7,Krafts Massage Parlor ,116.0,Krafts Massage Parlor ,18.0,Tyler,Justin,tyler,justin
+2021,1,,0,0,8,Team King,155.0,9,Team PCP,101.0,Team King,54.0,Connor,Tyler,connor,tyler
+2021,1,,0,0,7,Krafts Massage Parlor ,141.0,1,Shoneys Squanch Squad,112.0,Krafts Massage Parlor ,29.0,Justin,Ethan,justin,ethan
+2021,1,,0,0,2,Cincinnati Gun Owners Club,122.0,6,Big Chubb Energy,131.0,Big Chubb Energy,9.0,Gerson,Nathaniel,gerson,nathaniel
+2021,1,,0,0,5,McDonalds all Day breakfast ,134.0,4,Gang $hit Fam,118.0,McDonalds all Day breakfast ,16.0,Max,Mike,max,mike
+2021,1,,0,0,3,Mr. Rodgers hood 12 bitch,82.0,10,Tanners Team,107.0,Tanners Team,25.0,Matt,Tanner,matt,tanner
+2021,2,,0,0,1,Shoneys Squanch Squad,106.0,6,Big Chubb Energy,111.0,Big Chubb Energy,5.0,Ethan,Nathaniel,ethan,nathaniel
+2021,2,,0,0,4,Gang $hit Fam,124.0,8,Team King,112.0,Gang $hit Fam,12.0,Mike,Connor,mike,connor
+2021,2,,0,0,10,Tanners Team,143.0,9,Team PCP,165.0,Team PCP,22.0,Tanner,Tyler,tanner,tyler
+2021,2,,0,0,5,McDonalds all Day breakfast ,108.0,7,Krafts Massage Parlor ,131.0,Krafts Massage Parlor ,23.0,Max,Justin,max,justin
+2021,2,,0,0,3,Mr. Rodgers hood 12 bitch,162.0,2,Cincinnati Gun Owners Club,122.0,Mr. Rodgers hood 12 bitch,40.0,Matt,Gerson,matt,gerson
+2021,3,,0,0,4,Gang $hit Fam,127.0,10,Tanners Team,116.0,Gang $hit Fam,11.0,Mike,Tanner,mike,tanner
+2021,3,,0,0,1,Shoneys Squanch Squad,82.0,5,McDonalds all Day breakfast ,156.0,McDonalds all Day breakfast ,74.0,Ethan,Max,ethan,max
+2021,3,,0,0,6,Big Chubb Energy,137.0,3,Mr. Rodgers hood 12 bitch,100.0,Big Chubb Energy,37.0,Nathaniel,Matt,nathaniel,matt
+2021,3,,0,0,8,Team King,92.0,7,Krafts Massage Parlor ,122.0,Krafts Massage Parlor ,30.0,Connor,Justin,connor,justin
+2021,3,,0,0,9,Team PCP,138.0,2,Cincinnati Gun Owners Club,107.0,Team PCP,31.0,Tyler,Gerson,tyler,gerson
+2021,4,,0,0,5,McDonalds all Day breakfast ,94.0,3,Mr. Rodgers hood 12 bitch,72.0,McDonalds all Day breakfast ,22.0,Max,Matt,max,matt
+2021,4,,0,0,7,Krafts Massage Parlor ,141.0,4,Gang $hit Fam,135.0,Krafts Massage Parlor ,6.0,Justin,Mike,justin,mike
+2021,4,,0,0,2,Cincinnati Gun Owners Club,101.0,10,Tanners Team,117.0,Tanners Team,16.0,Gerson,Tanner,gerson,tanner
+2021,4,,0,0,8,Team King,78.0,1,Shoneys Squanch Squad,110.0,Shoneys Squanch Squad,32.0,Connor,Ethan,connor,ethan
+2021,4,,0,0,9,Team PCP,157.0,6,Big Chubb Energy,143.0,Team PCP,14.0,Tyler,Nathaniel,tyler,nathaniel
+2021,5,,0,0,7,Krafts Massage Parlor ,126.0,2,Cincinnati Gun Owners Club,187.0,Cincinnati Gun Owners Club,61.0,Justin,Gerson,justin,gerson
+2021,5,,0,0,5,McDonalds all Day breakfast ,102.0,8,Team King,140.0,Team King,38.0,Max,Connor,max,connor
+2021,5,,0,0,3,Mr. Rodgers hood 12 bitch,106.0,9,Team PCP,171.0,Team PCP,65.0,Matt,Tyler,matt,tyler
+2021,5,,0,0,4,Gang $hit Fam,176.0,1,Shoneys Squanch Squad,97.0,Gang $hit Fam,79.0,Mike,Ethan,mike,ethan
+2021,5,,0,0,10,Tanners Team,116.0,6,Big Chubb Energy,158.0,Big Chubb Energy,42.0,Tanner,Nathaniel,tanner,nathaniel
+2021,6,,0,0,9,Team PCP,163.0,1,Shoneys Squanch Squad,102.0,Team PCP,61.0,Tyler,Ethan,tyler,ethan
+2021,6,,0,0,6,Big Chubb Energy,150.0,4,Gang $hit Fam,121.0,Big Chubb Energy,29.0,Nathaniel,Mike,nathaniel,mike
+2021,6,,0,0,10,Tanners Team,138.0,5,McDonalds all Day breakfast ,143.0,McDonalds all Day breakfast ,5.0,Tanner,Max,tanner,max
+2021,6,,0,0,3,Mr. Rodgers hood 12 bitch,139.0,7,Krafts Massage Parlor ,112.0,Mr. Rodgers hood 12 bitch,27.0,Matt,Justin,matt,justin
+2021,6,,0,0,2,Cincinnati Gun Owners Club,103.0,8,Team King,103.0,TIE,0.0,Gerson,Connor,gerson,connor
+2021,7,,0,0,4,Gang $hit Fam,86.0,9,Team PCP,120.0,Team PCP,34.0,Mike,Tyler,mike,tyler
+2021,7,,0,0,5,McDonalds all Day breakfast ,112.0,6,Big Chubb Energy,112.0,TIE,0.0,Max,Nathaniel,max,nathaniel
+2021,7,,0,0,7,Krafts Massage Parlor ,93.0,10,Tanners Team,91.0,Krafts Massage Parlor ,2.0,Justin,Tanner,justin,tanner
+2021,7,,0,0,8,Team King,105.0,3,Mr. Rodgers hood 12 bitch,134.0,Mr. Rodgers hood 12 bitch,29.0,Connor,Matt,connor,matt
+2021,7,,0,0,1,Shoneys Squanch Squad,129.0,2,Cincinnati Gun Owners Club,159.0,Cincinnati Gun Owners Club,30.0,Ethan,Gerson,ethan,gerson
+2021,8,,0,0,9,Team PCP,107.0,5,McDonalds all Day breakfast ,130.0,McDonalds all Day breakfast ,23.0,Tyler,Max,tyler,max
+2021,8,,0,0,6,Big Chubb Energy,107.0,7,Krafts Massage Parlor ,92.0,Big Chubb Energy,15.0,Nathaniel,Justin,nathaniel,justin
+2021,8,,0,0,10,Tanners Team,139.0,8,Team King,73.0,Tanners Team,66.0,Tanner,Connor,tanner,connor
+2021,8,,0,0,3,Mr. Rodgers hood 12 bitch,106.0,1,Shoneys Squanch Squad,85.0,Mr. Rodgers hood 12 bitch,21.0,Matt,Ethan,matt,ethan
+2021,8,,0,0,2,Cincinnati Gun Owners Club,126.0,4,Gang $hit Fam,127.0,Gang $hit Fam,1.0,Gerson,Mike,gerson,mike
+2021,9,,0,0,7,Krafts Massage Parlor ,94.0,9,Team PCP,116.0,Team PCP,22.0,Justin,Tyler,justin,tyler
+2021,9,,0,0,8,Team King,57.0,5,McDonalds all Day breakfast ,84.0,McDonalds all Day breakfast ,27.0,Connor,Max,connor,max
+2021,9,,0,0,6,Big Chubb Energy,135.0,2,Cincinnati Gun Owners Club,141.0,Cincinnati Gun Owners Club,6.0,Nathaniel,Gerson,nathaniel,gerson
+2021,9,,0,0,1,Shoneys Squanch Squad,77.0,4,Gang $hit Fam,128.0,Gang $hit Fam,51.0,Ethan,Mike,ethan,mike
+2021,9,,0,0,10,Tanners Team,94.0,3,Mr. Rodgers hood 12 bitch,86.0,Tanners Team,8.0,Tanner,Matt,tanner,matt
+2021,10,,0,0,8,Team King,119.0,6,Big Chubb Energy,154.0,Big Chubb Energy,35.0,Connor,Nathaniel,connor,nathaniel
+2021,10,,0,0,1,Shoneys Squanch Squad,52.0,7,Krafts Massage Parlor ,110.0,Krafts Massage Parlor ,58.0,Ethan,Justin,ethan,justin
+2021,10,,0,0,9,Team PCP,123.0,10,Tanners Team,133.0,Tanners Team,10.0,Tyler,Tanner,tyler,tanner
+2021,10,,0,0,4,Gang $hit Fam,77.0,5,McDonalds all Day breakfast ,88.0,McDonalds all Day breakfast ,11.0,Mike,Max,mike,max
+2021,10,,0,0,2,Cincinnati Gun Owners Club,117.0,3,Mr. Rodgers hood 12 bitch,121.0,Mr. Rodgers hood 12 bitch,4.0,Gerson,Matt,gerson,matt
+2021,11,,0,0,1,Shoneys Squanch Squad,91.0,10,Tanners Team,113.0,Tanners Team,22.0,Ethan,Tanner,ethan,tanner
+2021,11,,0,0,8,Team King,104.0,4,Gang $hit Fam,168.0,Gang $hit Fam,64.0,Connor,Mike,connor,mike
+2021,11,,0,0,3,Mr. Rodgers hood 12 bitch,114.0,6,Big Chubb Energy,122.0,Big Chubb Energy,8.0,Matt,Nathaniel,matt,nathaniel
+2021,11,,0,0,7,Krafts Massage Parlor ,106.0,5,McDonalds all Day breakfast ,107.0,McDonalds all Day breakfast ,1.0,Justin,Max,justin,max
+2021,11,,0,0,2,Cincinnati Gun Owners Club,149.0,9,Team PCP,66.0,Cincinnati Gun Owners Club,83.0,Gerson,Tyler,gerson,tyler
+2021,12,,0,0,4,Gang $hit Fam,77.0,3,Mr. Rodgers hood 12 bitch,117.0,Mr. Rodgers hood 12 bitch,40.0,Mike,Matt,mike,matt
+2021,12,,0,0,5,McDonalds all Day breakfast ,122.0,1,Shoneys Squanch Squad,97.0,McDonalds all Day breakfast ,25.0,Max,Ethan,max,ethan
+2021,12,,0,0,10,Tanners Team,128.0,2,Cincinnati Gun Owners Club,103.0,Tanners Team,25.0,Tanner,Gerson,tanner,gerson
+2021,12,,0,0,7,Krafts Massage Parlor ,113.0,8,Team King,55.0,Krafts Massage Parlor ,58.0,Justin,Connor,justin,connor
+2021,12,,0,0,6,Big Chubb Energy,104.0,9,Team PCP,144.0,Team PCP,40.0,Nathaniel,Tyler,nathaniel,tyler
+2021,13,,0,0,5,McDonalds all Day breakfast ,113.0,2,Cincinnati Gun Owners Club,129.0,Cincinnati Gun Owners Club,16.0,Max,Gerson,max,gerson
+2021,13,,0,0,4,Gang $hit Fam,127.0,7,Krafts Massage Parlor ,157.0,Krafts Massage Parlor ,30.0,Mike,Justin,mike,justin
+2021,13,,0,0,9,Team PCP,104.0,3,Mr. Rodgers hood 12 bitch,126.0,Mr. Rodgers hood 12 bitch,22.0,Tyler,Matt,tyler,matt
+2021,13,,0,0,1,Shoneys Squanch Squad,110.0,8,Team King,105.0,Shoneys Squanch Squad,5.0,Ethan,Connor,ethan,connor
+2021,13,,0,0,6,Big Chubb Energy,127.0,10,Tanners Team,97.0,Big Chubb Energy,30.0,Nathaniel,Tanner,nathaniel,tanner
+2021,14,,0,0,9,Team PCP,137.0,8,Team King,111.0,Team PCP,26.0,Tyler,Connor,tyler,connor
+2021,14,,0,0,6,Big Chubb Energy,99.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,18.0,Nathaniel,Ethan,nathaniel,ethan
+2021,14,,0,0,10,Tanners Team,111.0,4,Gang $hit Fam,121.0,Gang $hit Fam,10.0,Tanner,Mike,tanner,mike
+2021,14,,0,0,3,Mr. Rodgers hood 12 bitch,142.0,5,McDonalds all Day breakfast ,160.0,McDonalds all Day breakfast ,18.0,Matt,Max,matt,max
+2021,14,,0,0,2,Cincinnati Gun Owners Club,77.0,7,Krafts Massage Parlor ,132.0,Krafts Massage Parlor ,55.0,Gerson,Justin,gerson,justin
+2021,15,,1,0,5,McDonalds all Day breakfast ,72.0,2,Cincinnati Gun Owners Club,80.0,Cincinnati Gun Owners Club,8.0,Max,Gerson,max,gerson
+2021,15,,1,0,7,Krafts Massage Parlor ,103.0,4,Gang $hit Fam,69.0,Krafts Massage Parlor ,34.0,Justin,Mike,justin,mike
+2021,15,,1,0,6,Big Chubb Energy,177.0,10,Tanners Team,113.0,Big Chubb Energy,64.0,Nathaniel,Tanner,nathaniel,tanner
+2021,15,,1,0,9,Team PCP,115.0,3,Mr. Rodgers hood 12 bitch,135.0,Mr. Rodgers hood 12 bitch,20.0,Tyler,Matt,tyler,matt
+2021,15,,1,0,8,Team King,80.0,1,Shoneys Squanch Squad,71.0,Team King,9.0,Connor,Ethan,connor,ethan
+2021,16,,1,0,7,Krafts Massage Parlor ,133.0,2,Cincinnati Gun Owners Club,130.0,Krafts Massage Parlor ,3.0,Justin,Gerson,justin,gerson
+2021,16,,1,0,6,Big Chubb Energy,129.0,3,Mr. Rodgers hood 12 bitch,101.0,Big Chubb Energy,28.0,Nathaniel,Matt,nathaniel,matt
+2021,16,,1,0,5,McDonalds all Day breakfast ,90.0,9,Team PCP,119.0,Team PCP,29.0,Max,Tyler,max,tyler
+2021,16,,1,0,4,Gang $hit Fam,60.0,10,Tanners Team,125.0,Tanners Team,65.0,Mike,Tanner,mike,tanner
+2021,16,,1,0,8,Team King,125.0,1,Shoneys Squanch Squad,92.0,Team King,33.0,Connor,Ethan,connor,ethan
+2021,17,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,17,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,17,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,17,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,17,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,18,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,18,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,18,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,18,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,18,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,19,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,19,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,19,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,19,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,19,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,20,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,20,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,20,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,20,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,20,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,21,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,21,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,21,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,21,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,21,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,22,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,22,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,22,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,22,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,22,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,23,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,23,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,23,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,23,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,23,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,24,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,24,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,24,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,24,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,24,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,25,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,25,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,25,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,25,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,25,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,26,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,26,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,26,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,26,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,26,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,27,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,27,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,27,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,27,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,27,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,28,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,28,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,28,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,28,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,28,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,29,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,29,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,29,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,29,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,29,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,30,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,30,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,30,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,30,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,30,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,31,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,31,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,31,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,31,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,31,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,32,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,32,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,32,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,32,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,32,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,33,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,33,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,33,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,33,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,33,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,34,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,34,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,34,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,34,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,34,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2021,35,,1,0,6,Big Chubb Energy,114.0,7,Krafts Massage Parlor ,173.0,Krafts Massage Parlor ,59.0,Nathaniel,Justin,nathaniel,justin
+2021,35,,1,0,3,Mr. Rodgers hood 12 bitch,129.0,2,Cincinnati Gun Owners Club,118.0,Mr. Rodgers hood 12 bitch,11.0,Matt,Gerson,matt,gerson
+2021,35,,1,0,9,Team PCP,118.0,10,Tanners Team,90.0,Team PCP,28.0,Tyler,Tanner,tyler,tanner
+2021,35,,1,0,5,McDonalds all Day breakfast ,60.0,4,Gang $hit Fam,94.0,Gang $hit Fam,34.0,Max,Mike,max,mike
+2021,35,,1,0,8,Team King,88.0,1,Shoneys Squanch Squad,117.0,Shoneys Squanch Squad,29.0,Connor,Ethan,connor,ethan
+2022,1,,0,0,8,Team King,132.0,9,Team PCP,109.0,Team King,23.0,Connor,Tyler,connor,tyler
+2022,1,,0,0,7,Krafts Massage Parlor ,112.0,1,Shoneys Squanch Squad,129.0,Shoneys Squanch Squad,17.0,Justin,Ethan,justin,ethan
+2022,1,,0,0,2,Cincinnati Gun Owners Club,177.0,6,Najee By Nature,82.0,Cincinnati Gun Owners Club,95.0,Gerson,Nathaniel,gerson,nathaniel
+2022,1,,0,0,5,McDonalds all Day breakfast ,93.0,4,RidenforBiden BBB,130.0,RidenforBiden BBB,37.0,Max,Mike,max,mike
+2022,1,,0,0,3,Magic SkolBus,123.0,10,Tanners Team,74.0,Magic SkolBus,49.0,Marcel,Tanner,marcel,tanner
+2022,2,,0,0,1,Shoneys Squanch Squad,86.0,6,Najee By Nature,111.0,Najee By Nature,25.0,Ethan,Nathaniel,ethan,nathaniel
+2022,2,,0,0,4,RidenforBiden BBB,124.0,8,Team King,173.0,Team King,49.0,Mike,Connor,mike,connor
+2022,2,,0,0,10,Tanners Team,95.0,9,Team PCP,146.0,Team PCP,51.0,Tanner,Tyler,tanner,tyler
+2022,2,,0,0,5,McDonalds all Day breakfast ,99.0,7,Krafts Massage Parlor ,119.0,Krafts Massage Parlor ,20.0,Max,Justin,max,justin
+2022,2,,0,0,3,Magic SkolBus,106.0,2,Cincinnati Gun Owners Club,157.0,Cincinnati Gun Owners Club,51.0,Marcel,Gerson,marcel,gerson
+2022,3,,0,0,4,RidenforBiden BBB,110.0,10,Tanners Team,127.0,Tanners Team,17.0,Mike,Tanner,mike,tanner
+2022,3,,0,0,1,Shoneys Squanch Squad,83.0,5,McDonalds all Day breakfast ,77.0,Shoneys Squanch Squad,6.0,Ethan,Max,ethan,max
+2022,3,,0,0,6,Najee By Nature,75.0,3,Magic SkolBus,103.0,Magic SkolBus,28.0,Nathaniel,Marcel,nathaniel,marcel
+2022,3,,0,0,8,Team King,133.0,7,Krafts Massage Parlor ,114.0,Team King,19.0,Connor,Justin,connor,justin
+2022,3,,0,0,9,Team PCP,106.0,2,Cincinnati Gun Owners Club,124.0,Cincinnati Gun Owners Club,18.0,Tyler,Gerson,tyler,gerson
+2022,4,,0,0,5,McDonalds all Day breakfast ,114.0,3,Magic SkolBus,101.0,McDonalds all Day breakfast ,13.0,Max,Marcel,max,marcel
+2022,4,,0,0,7,Krafts Massage Parlor ,96.0,4,RidenforBiden BBB,143.0,RidenforBiden BBB,47.0,Justin,Mike,justin,mike
+2022,4,,0,0,2,Cincinnati Gun Owners Club,131.0,10,Tanners Team,155.0,Tanners Team,24.0,Gerson,Tanner,gerson,tanner
+2022,4,,0,0,8,Team King,114.0,1,Shoneys Squanch Squad,159.0,Shoneys Squanch Squad,45.0,Connor,Ethan,connor,ethan
+2022,4,,0,0,9,Team PCP,67.0,6,Najee By Nature,148.0,Najee By Nature,81.0,Tyler,Nathaniel,tyler,nathaniel
+2022,5,,0,0,7,Krafts Massage Parlor ,75.0,2,Cincinnati Gun Owners Club,150.0,Cincinnati Gun Owners Club,75.0,Justin,Gerson,justin,gerson
+2022,5,,0,0,5,McDonalds all Day breakfast ,82.0,8,Team King,121.0,Team King,39.0,Max,Connor,max,connor
+2022,5,,0,0,3,Magic SkolBus,98.0,9,Team PCP,100.0,Team PCP,2.0,Marcel,Tyler,marcel,tyler
+2022,5,,0,0,4,RidenforBiden BBB,120.0,1,Shoneys Squanch Squad,172.0,Shoneys Squanch Squad,52.0,Mike,Ethan,mike,ethan
+2022,5,,0,0,10,Tanners Team,135.0,6,Najee By Nature,105.0,Tanners Team,30.0,Tanner,Nathaniel,tanner,nathaniel
+2022,6,,0,0,9,Team PCP,76.0,1,Shoneys Squanch Squad,85.0,Shoneys Squanch Squad,9.0,Tyler,Ethan,tyler,ethan
+2022,6,,0,0,6,Najee By Nature,75.0,4,RidenforBiden BBB,144.0,RidenforBiden BBB,69.0,Nathaniel,Mike,nathaniel,mike
+2022,6,,0,0,10,Tanners Team,97.0,5,McDonalds all Day breakfast ,126.0,McDonalds all Day breakfast ,29.0,Tanner,Max,tanner,max
+2022,6,,0,0,3,Magic SkolBus,81.0,7,Krafts Massage Parlor ,112.0,Krafts Massage Parlor ,31.0,Marcel,Justin,marcel,justin
+2022,6,,0,0,2,Cincinnati Gun Owners Club,113.0,8,Team King,110.0,Cincinnati Gun Owners Club,3.0,Gerson,Connor,gerson,connor
+2022,7,,0,0,4,RidenforBiden BBB,113.0,9,Team PCP,69.0,RidenforBiden BBB,44.0,Mike,Tyler,mike,tyler
+2022,7,,0,0,5,McDonalds all Day breakfast ,147.0,6,Najee By Nature,110.0,McDonalds all Day breakfast ,37.0,Max,Nathaniel,max,nathaniel
+2022,7,,0,0,7,Krafts Massage Parlor ,107.0,10,Tanners Team,94.0,Krafts Massage Parlor ,13.0,Justin,Tanner,justin,tanner
+2022,7,,0,0,8,Team King,104.0,3,Magic SkolBus,107.0,Magic SkolBus,3.0,Connor,Marcel,connor,marcel
+2022,7,,0,0,1,Shoneys Squanch Squad,135.0,2,Cincinnati Gun Owners Club,117.0,Shoneys Squanch Squad,18.0,Ethan,Gerson,ethan,gerson
+2022,8,,0,0,9,Team PCP,97.0,5,McDonalds all Day breakfast ,141.0,McDonalds all Day breakfast ,44.0,Tyler,Max,tyler,max
+2022,8,,0,0,6,Najee By Nature,110.0,7,Krafts Massage Parlor ,152.0,Krafts Massage Parlor ,42.0,Nathaniel,Justin,nathaniel,justin
+2022,8,,0,0,10,Tanners Team,110.0,8,Team King,145.0,Team King,35.0,Tanner,Connor,tanner,connor
+2022,8,,0,0,3,Magic SkolBus,156.0,1,Shoneys Squanch Squad,117.0,Magic SkolBus,39.0,Marcel,Ethan,marcel,ethan
+2022,8,,0,0,2,Cincinnati Gun Owners Club,121.0,4,RidenforBiden BBB,129.0,RidenforBiden BBB,8.0,Gerson,Mike,gerson,mike
+2022,9,,0,0,7,Krafts Massage Parlor ,138.0,9,Team PCP,87.0,Krafts Massage Parlor ,51.0,Justin,Tyler,justin,tyler
+2022,9,,0,0,8,Team King,110.0,5,McDonalds all Day breakfast ,115.0,McDonalds all Day breakfast ,5.0,Connor,Max,connor,max
+2022,9,,0,0,6,Najee By Nature,133.0,2,Cincinnati Gun Owners Club,134.0,Cincinnati Gun Owners Club,1.0,Nathaniel,Gerson,nathaniel,gerson
+2022,9,,0,0,1,Shoneys Squanch Squad,122.0,4,RidenforBiden BBB,127.0,RidenforBiden BBB,5.0,Ethan,Mike,ethan,mike
+2022,9,,0,0,10,Tanners Team,87.0,3,Magic SkolBus,85.0,Tanners Team,2.0,Tanner,Marcel,tanner,marcel
+2022,10,,0,0,8,Team King,115.0,6,Najee By Nature,70.0,Team King,45.0,Connor,Nathaniel,connor,nathaniel
+2022,10,,0,0,1,Shoneys Squanch Squad,111.0,7,Krafts Massage Parlor ,77.0,Shoneys Squanch Squad,34.0,Ethan,Justin,ethan,justin
+2022,10,,0,0,9,Team PCP,94.0,10,Tanners Team,119.0,Tanners Team,25.0,Tyler,Tanner,tyler,tanner
+2022,10,,0,0,4,RidenforBiden BBB,164.0,5,McDonalds all Day breakfast ,106.0,RidenforBiden BBB,58.0,Mike,Max,mike,max
+2022,10,,0,0,2,Cincinnati Gun Owners Club,147.0,3,Magic SkolBus,72.0,Cincinnati Gun Owners Club,75.0,Gerson,Marcel,gerson,marcel
+2022,11,,0,0,1,Shoneys Squanch Squad,101.0,10,Tanners Team,89.0,Shoneys Squanch Squad,12.0,Ethan,Tanner,ethan,tanner
+2022,11,,0,0,8,Team King,117.0,4,RidenforBiden BBB,139.0,RidenforBiden BBB,22.0,Connor,Mike,connor,mike
+2022,11,,0,0,3,Magic SkolBus,89.0,6,Najee By Nature,112.0,Najee By Nature,23.0,Marcel,Nathaniel,marcel,nathaniel
+2022,11,,0,0,7,Krafts Massage Parlor ,122.0,5,McDonalds all Day breakfast ,133.0,McDonalds all Day breakfast ,11.0,Justin,Max,justin,max
+2022,11,,0,0,2,Cincinnati Gun Owners Club,135.0,9,Team PCP,87.0,Cincinnati Gun Owners Club,48.0,Gerson,Tyler,gerson,tyler
+2022,12,,0,0,4,RidenforBiden BBB,106.0,3,Magic SkolBus,113.0,Magic SkolBus,7.0,Mike,Marcel,mike,marcel
+2022,12,,0,0,5,McDonalds all Day breakfast ,71.0,1,Shoneys Squanch Squad,156.0,Shoneys Squanch Squad,85.0,Max,Ethan,max,ethan
+2022,12,,0,0,10,Tanners Team,124.0,2,Cincinnati Gun Owners Club,123.0,Tanners Team,1.0,Tanner,Gerson,tanner,gerson
+2022,12,,0,0,7,Krafts Massage Parlor ,100.0,8,Team King,152.0,Team King,52.0,Justin,Connor,justin,connor
+2022,12,,0,0,6,Najee By Nature,104.0,9,Team PCP,119.0,Team PCP,15.0,Nathaniel,Tyler,nathaniel,tyler
+2022,13,,0,0,5,McDonalds all Day breakfast ,90.0,2,Cincinnati Gun Owners Club,166.0,Cincinnati Gun Owners Club,76.0,Max,Gerson,max,gerson
+2022,13,,0,0,4,RidenforBiden BBB,142.0,7,Krafts Massage Parlor ,69.0,RidenforBiden BBB,73.0,Mike,Justin,mike,justin
+2022,13,,0,0,9,Team PCP,105.0,3,Magic SkolBus,131.0,Magic SkolBus,26.0,Tyler,Marcel,tyler,marcel
+2022,13,,0,0,1,Shoneys Squanch Squad,110.0,8,Team King,88.0,Shoneys Squanch Squad,22.0,Ethan,Connor,ethan,connor
+2022,13,,0,0,6,Najee By Nature,131.0,10,Tanners Team,112.0,Najee By Nature,19.0,Nathaniel,Tanner,nathaniel,tanner
+2022,14,,0,0,9,Team PCP,72.0,8,Team King,79.0,Team King,7.0,Tyler,Connor,tyler,connor
+2022,14,,0,0,6,Najee By Nature,82.0,1,Shoneys Squanch Squad,105.0,Shoneys Squanch Squad,23.0,Nathaniel,Ethan,nathaniel,ethan
+2022,14,,0,0,10,Tanners Team,88.0,4,RidenforBiden BBB,132.0,RidenforBiden BBB,44.0,Tanner,Mike,tanner,mike
+2022,14,,0,0,3,Magic SkolBus,121.0,5,McDonalds all Day breakfast ,105.0,Magic SkolBus,16.0,Marcel,Max,marcel,max
+2022,14,,0,0,2,Cincinnati Gun Owners Club,112.0,7,Krafts Massage Parlor ,79.0,Cincinnati Gun Owners Club,33.0,Gerson,Justin,gerson,justin
+2022,15,,1,0,1,Shoneys Squanch Squad,91.0,7,Krafts Massage Parlor ,93.0,Krafts Massage Parlor ,2.0,Ethan,Justin,ethan,justin
+2022,15,,1,0,8,Team King,122.0,3,Magic SkolBus,118.0,Team King,4.0,Connor,Marcel,connor,marcel
+2022,15,,1,0,4,RidenforBiden BBB,143.0,10,Tanners Team,89.0,RidenforBiden BBB,54.0,Mike,Tanner,mike,tanner
+2022,15,,1,0,2,Cincinnati Gun Owners Club,120.0,5,McDonalds all Day breakfast ,117.0,Cincinnati Gun Owners Club,3.0,Gerson,Max,gerson,max
+2022,15,,1,0,6,Najee By Nature,81.0,9,Team PCP,122.0,Team PCP,41.0,Nathaniel,Tyler,nathaniel,tyler
+2022,16,,1,0,8,Team King,89.0,7,Krafts Massage Parlor ,109.0,Krafts Massage Parlor ,20.0,Connor,Justin,connor,justin
+2022,16,,1,0,2,Cincinnati Gun Owners Club,113.0,4,RidenforBiden BBB,113.0,TIE,0.0,Gerson,Mike,gerson,mike
+2022,16,,1,0,1,Shoneys Squanch Squad,110.0,3,Magic SkolBus,113.0,Magic SkolBus,3.0,Ethan,Marcel,ethan,marcel
+2022,16,,1,0,10,Tanners Team,143.0,5,McDonalds all Day breakfast ,130.0,Tanners Team,13.0,Tanner,Max,tanner,max
+2022,16,,1,0,6,Najee By Nature,133.0,9,Team PCP,92.0,Najee By Nature,41.0,Nathaniel,Tyler,nathaniel,tyler
+2022,17,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,17,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,17,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,17,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,17,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,18,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,18,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,18,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,18,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,18,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,19,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,19,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,19,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,19,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,19,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,20,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,20,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,20,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,20,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,20,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,21,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,21,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,21,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,21,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,21,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,22,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,22,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,22,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,22,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,22,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,23,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,23,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,23,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,23,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,23,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,24,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,24,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,24,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,24,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,24,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,25,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,25,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,25,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,25,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,25,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,26,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,26,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,26,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,26,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,26,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,27,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,27,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,27,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,27,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,27,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,28,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,28,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,28,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,28,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,28,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,29,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,29,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,29,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,29,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,29,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,30,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,30,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,30,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,30,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,30,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,31,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,31,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,31,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,31,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,31,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,32,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,32,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,32,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,32,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,32,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,33,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,33,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,33,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,33,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,33,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,34,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,34,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,34,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,34,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,34,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2022,35,,1,0,2,Cincinnati Gun Owners Club,123.0,7,Krafts Massage Parlor ,118.0,Cincinnati Gun Owners Club,5.0,Gerson,Justin,gerson,justin
+2022,35,,1,0,4,RidenforBiden BBB,105.0,8,Team King,69.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2022,35,,1,0,3,Magic SkolBus,70.0,10,Tanners Team,133.0,Tanners Team,63.0,Marcel,Tanner,marcel,tanner
+2022,35,,1,0,1,Shoneys Squanch Squad,141.0,5,McDonalds all Day breakfast ,85.0,Shoneys Squanch Squad,56.0,Ethan,Max,ethan,max
+2022,35,,1,0,6,Najee By Nature,108.0,9,Team PCP,86.0,Najee By Nature,22.0,Nathaniel,Tyler,nathaniel,tyler
+2023,1,,0,0,8,Team King,107.0,9,R.I.P. Kirko Chainz ,96.0,Team King,11.0,Connor,Tyler,connor,tyler
+2023,1,,0,0,7,BYE-WEEK,105.0,1,Shoneys Squanch Squad,110.0,Shoneys Squanch Squad,5.0,Justin,Ethan,justin,ethan
+2023,1,,0,0,2,Cincinnati Gun Owners Club,108.0,6,CeeDeeCee Guidelines,97.0,Cincinnati Gun Owners Club,11.0,Gerson,Nathaniel,gerson,nathaniel
+2023,1,,0,0,5,McDonalds all Day breakfast ,88.0,4,RidenforBiden BBB,105.0,RidenforBiden BBB,17.0,Max,Mike,max,mike
+2023,1,,0,0,3,Magic SkolBus,118.0,10,Tanner's team,116.0,Magic SkolBus,2.0,Marcel,Tanner,marcel,tanner
+2023,2,,0,0,1,Shoneys Squanch Squad,111.0,6,CeeDeeCee Guidelines,103.0,Shoneys Squanch Squad,8.0,Ethan,Nathaniel,ethan,nathaniel
+2023,2,,0,0,4,RidenforBiden BBB,163.0,8,Team King,79.0,RidenforBiden BBB,84.0,Mike,Connor,mike,connor
+2023,2,,0,0,10,Tanner's team,135.0,9,R.I.P. Kirko Chainz ,91.0,Tanner's team,44.0,Tanner,Tyler,tanner,tyler
+2023,2,,0,0,5,McDonalds all Day breakfast ,107.0,7,BYE-WEEK,119.0,BYE-WEEK,12.0,Max,Justin,max,justin
+2023,2,,0,0,3,Magic SkolBus,125.0,2,Cincinnati Gun Owners Club,119.0,Magic SkolBus,6.0,Marcel,Gerson,marcel,gerson
+2023,3,,0,0,4,RidenforBiden BBB,143.0,10,Tanner's team,135.0,RidenforBiden BBB,8.0,Mike,Tanner,mike,tanner
+2023,3,,0,0,1,Shoneys Squanch Squad,121.0,5,McDonalds all Day breakfast ,90.0,Shoneys Squanch Squad,31.0,Ethan,Max,ethan,max
+2023,3,,0,0,6,CeeDeeCee Guidelines,138.0,3,Magic SkolBus,124.0,CeeDeeCee Guidelines,14.0,Nathaniel,Marcel,nathaniel,marcel
+2023,3,,0,0,8,Team King,101.0,7,BYE-WEEK,163.0,BYE-WEEK,62.0,Connor,Justin,connor,justin
+2023,3,,0,0,9,R.I.P. Kirko Chainz ,149.0,2,Cincinnati Gun Owners Club,112.0,R.I.P. Kirko Chainz ,37.0,Tyler,Gerson,tyler,gerson
+2023,4,,0,0,5,McDonalds all Day breakfast ,102.0,3,Magic SkolBus,116.0,Magic SkolBus,14.0,Max,Marcel,max,marcel
+2023,4,,0,0,7,BYE-WEEK,103.0,4,RidenforBiden BBB,131.0,RidenforBiden BBB,28.0,Justin,Mike,justin,mike
+2023,4,,0,0,2,Cincinnati Gun Owners Club,107.0,10,Tanner's team,110.0,Tanner's team,3.0,Gerson,Tanner,gerson,tanner
+2023,4,,0,0,8,Team King,103.0,1,Shoneys Squanch Squad,79.0,Team King,24.0,Connor,Ethan,connor,ethan
+2023,4,,0,0,9,R.I.P. Kirko Chainz ,102.0,6,CeeDeeCee Guidelines,140.0,CeeDeeCee Guidelines,38.0,Tyler,Nathaniel,tyler,nathaniel
+2023,5,,0,0,7,BYE-WEEK,105.0,2,Cincinnati Gun Owners Club,88.0,BYE-WEEK,17.0,Justin,Gerson,justin,gerson
+2023,5,,0,0,5,McDonalds all Day breakfast ,154.0,8,Team King,135.0,McDonalds all Day breakfast ,19.0,Max,Connor,max,connor
+2023,5,,0,0,3,Magic SkolBus,86.0,9,R.I.P. Kirko Chainz ,150.0,R.I.P. Kirko Chainz ,64.0,Marcel,Tyler,marcel,tyler
+2023,5,,0,0,4,RidenforBiden BBB,96.0,1,Shoneys Squanch Squad,130.0,Shoneys Squanch Squad,34.0,Mike,Ethan,mike,ethan
+2023,5,,0,0,10,Tanner's team,142.0,6,CeeDeeCee Guidelines,117.0,Tanner's team,25.0,Tanner,Nathaniel,tanner,nathaniel
+2023,6,,0,0,9,R.I.P. Kirko Chainz ,95.0,1,Shoneys Squanch Squad,118.0,Shoneys Squanch Squad,23.0,Tyler,Ethan,tyler,ethan
+2023,6,,0,0,6,CeeDeeCee Guidelines,119.0,4,RidenforBiden BBB,122.0,RidenforBiden BBB,3.0,Nathaniel,Mike,nathaniel,mike
+2023,6,,0,0,10,Tanner's team,100.0,5,McDonalds all Day breakfast ,151.0,McDonalds all Day breakfast ,51.0,Tanner,Max,tanner,max
+2023,6,,0,0,3,Magic SkolBus,138.0,7,BYE-WEEK,75.0,Magic SkolBus,63.0,Marcel,Justin,marcel,justin
+2023,6,,0,0,2,Cincinnati Gun Owners Club,112.0,8,Team King,84.0,Cincinnati Gun Owners Club,28.0,Gerson,Connor,gerson,connor
+2023,7,,0,0,4,RidenforBiden BBB,95.0,9,R.I.P. Kirko Chainz ,130.0,R.I.P. Kirko Chainz ,35.0,Mike,Tyler,mike,tyler
+2023,7,,0,0,5,McDonalds all Day breakfast ,109.0,6,CeeDeeCee Guidelines,109.0,TIE,0.0,Max,Nathaniel,max,nathaniel
+2023,7,,0,0,7,BYE-WEEK,81.0,10,Tanner's team,116.0,Tanner's team,35.0,Justin,Tanner,justin,tanner
+2023,7,,0,0,8,Team King,82.0,3,Magic SkolBus,100.0,Magic SkolBus,18.0,Connor,Marcel,connor,marcel
+2023,7,,0,0,1,Shoneys Squanch Squad,152.0,2,Cincinnati Gun Owners Club,136.0,Shoneys Squanch Squad,16.0,Ethan,Gerson,ethan,gerson
+2023,8,,0,0,9,R.I.P. Kirko Chainz ,165.0,5,McDonalds all Day breakfast ,132.0,R.I.P. Kirko Chainz ,33.0,Tyler,Max,tyler,max
+2023,8,,0,0,6,CeeDeeCee Guidelines,106.0,7,BYE-WEEK,87.0,CeeDeeCee Guidelines,19.0,Nathaniel,Justin,nathaniel,justin
+2023,8,,0,0,10,Tanner's team,102.0,8,Team King,154.0,Team King,52.0,Tanner,Connor,tanner,connor
+2023,8,,0,0,3,Magic SkolBus,113.0,1,Shoneys Squanch Squad,88.0,Magic SkolBus,25.0,Marcel,Ethan,marcel,ethan
+2023,8,,0,0,2,Cincinnati Gun Owners Club,138.0,4,RidenforBiden BBB,117.0,Cincinnati Gun Owners Club,21.0,Gerson,Mike,gerson,mike
+2023,9,,0,0,7,BYE-WEEK,69.0,9,R.I.P. Kirko Chainz ,121.0,R.I.P. Kirko Chainz ,52.0,Justin,Tyler,justin,tyler
+2023,9,,0,0,8,Team King,115.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,10.0,Connor,Max,connor,max
+2023,9,,0,0,6,CeeDeeCee Guidelines,165.0,2,Cincinnati Gun Owners Club,107.0,CeeDeeCee Guidelines,58.0,Nathaniel,Gerson,nathaniel,gerson
+2023,9,,0,0,1,Shoneys Squanch Squad,96.0,4,RidenforBiden BBB,77.0,Shoneys Squanch Squad,19.0,Ethan,Mike,ethan,mike
+2023,9,,0,0,10,Tanner's team,78.0,3,Magic SkolBus,97.0,Magic SkolBus,19.0,Tanner,Marcel,tanner,marcel
+2023,10,,0,0,8,Team King,158.0,6,CeeDeeCee Guidelines,133.0,Team King,25.0,Connor,Nathaniel,connor,nathaniel
+2023,10,,0,0,1,Shoneys Squanch Squad,127.0,7,BYE-WEEK,88.0,Shoneys Squanch Squad,39.0,Ethan,Justin,ethan,justin
+2023,10,,0,0,9,R.I.P. Kirko Chainz ,102.0,10,Tanner's team,127.0,Tanner's team,25.0,Tyler,Tanner,tyler,tanner
+2023,10,,0,0,4,RidenforBiden BBB,158.0,5,McDonalds all Day breakfast ,121.0,RidenforBiden BBB,37.0,Mike,Max,mike,max
+2023,10,,0,0,2,Cincinnati Gun Owners Club,87.0,3,Magic SkolBus,108.0,Magic SkolBus,21.0,Gerson,Marcel,gerson,marcel
+2023,11,,0,0,1,Shoneys Squanch Squad,112.0,10,Tanner's team,106.0,Shoneys Squanch Squad,6.0,Ethan,Tanner,ethan,tanner
+2023,11,,0,0,8,Team King,105.0,4,RidenforBiden BBB,120.0,RidenforBiden BBB,15.0,Connor,Mike,connor,mike
+2023,11,,0,0,3,Magic SkolBus,149.0,6,CeeDeeCee Guidelines,88.0,Magic SkolBus,61.0,Marcel,Nathaniel,marcel,nathaniel
+2023,11,,0,0,7,BYE-WEEK,105.0,5,McDonalds all Day breakfast ,97.0,BYE-WEEK,8.0,Justin,Max,justin,max
+2023,11,,0,0,2,Cincinnati Gun Owners Club,123.0,9,R.I.P. Kirko Chainz ,75.0,Cincinnati Gun Owners Club,48.0,Gerson,Tyler,gerson,tyler
+2023,12,,0,0,4,RidenforBiden BBB,155.0,3,Magic SkolBus,110.0,RidenforBiden BBB,45.0,Mike,Marcel,mike,marcel
+2023,12,,0,0,5,McDonalds all Day breakfast ,96.0,1,Shoneys Squanch Squad,131.0,Shoneys Squanch Squad,35.0,Max,Ethan,max,ethan
+2023,12,,0,0,10,Tanner's team,110.0,2,Cincinnati Gun Owners Club,108.0,Tanner's team,2.0,Tanner,Gerson,tanner,gerson
+2023,12,,0,0,7,BYE-WEEK,123.0,8,Team King,105.0,BYE-WEEK,18.0,Justin,Connor,justin,connor
+2023,12,,0,0,6,CeeDeeCee Guidelines,127.0,9,R.I.P. Kirko Chainz ,125.0,CeeDeeCee Guidelines,2.0,Nathaniel,Tyler,nathaniel,tyler
+2023,13,,0,0,5,McDonalds all Day breakfast ,99.0,2,Cincinnati Gun Owners Club,135.0,Cincinnati Gun Owners Club,36.0,Max,Gerson,max,gerson
+2023,13,,0,0,4,RidenforBiden BBB,130.0,7,BYE-WEEK,112.0,RidenforBiden BBB,18.0,Mike,Justin,mike,justin
+2023,13,,0,0,9,R.I.P. Kirko Chainz ,140.0,3,Magic SkolBus,87.0,R.I.P. Kirko Chainz ,53.0,Tyler,Marcel,tyler,marcel
+2023,13,,0,0,1,Shoneys Squanch Squad,154.0,8,Team King,82.0,Shoneys Squanch Squad,72.0,Ethan,Connor,ethan,connor
+2023,13,,0,0,6,CeeDeeCee Guidelines,153.0,10,Tanner's team,133.0,CeeDeeCee Guidelines,20.0,Nathaniel,Tanner,nathaniel,tanner
+2023,14,,0,0,9,R.I.P. Kirko Chainz ,114.0,8,Team King,127.0,Team King,13.0,Tyler,Connor,tyler,connor
+2023,14,,0,0,6,CeeDeeCee Guidelines,85.0,1,Shoneys Squanch Squad,100.0,Shoneys Squanch Squad,15.0,Nathaniel,Ethan,nathaniel,ethan
+2023,14,,0,0,10,Tanner's team,93.0,4,RidenforBiden BBB,119.0,RidenforBiden BBB,26.0,Tanner,Mike,tanner,mike
+2023,14,,0,0,3,Magic SkolBus,128.0,5,McDonalds all Day breakfast ,128.0,TIE,0.0,Marcel,Max,marcel,max
+2023,14,,0,0,2,Cincinnati Gun Owners Club,145.0,7,BYE-WEEK,121.0,Cincinnati Gun Owners Club,24.0,Gerson,Justin,gerson,justin
+2023,15,,1,0,1,Shoneys Squanch Squad,106.0,5,McDonalds all Day breakfast ,137.0,McDonalds all Day breakfast ,31.0,Ethan,Max,ethan,max
+2023,15,,1,0,6,CeeDeeCee Guidelines,117.0,9,R.I.P. Kirko Chainz ,108.0,CeeDeeCee Guidelines,9.0,Nathaniel,Tyler,nathaniel,tyler
+2023,15,,1,0,4,RidenforBiden BBB,101.0,2,Cincinnati Gun Owners Club,81.0,RidenforBiden BBB,20.0,Mike,Gerson,mike,gerson
+2023,15,,1,0,3,Magic SkolBus,164.0,10,Tanner's team,98.0,Magic SkolBus,66.0,Marcel,Tanner,marcel,tanner
+2023,15,,1,0,8,Team King,104.0,7,BYE-WEEK,88.0,Team King,16.0,Connor,Justin,connor,justin
+2023,16,,1,0,6,CeeDeeCee Guidelines,102.0,5,McDonalds all Day breakfast ,131.0,McDonalds all Day breakfast ,29.0,Nathaniel,Max,nathaniel,max
+2023,16,,1,0,3,Magic SkolBus,134.0,4,RidenforBiden BBB,103.0,Magic SkolBus,31.0,Marcel,Mike,marcel,mike
+2023,16,,1,0,1,Shoneys Squanch Squad,112.0,9,R.I.P. Kirko Chainz ,62.0,Shoneys Squanch Squad,50.0,Ethan,Tyler,ethan,tyler
+2023,16,,1,0,2,Cincinnati Gun Owners Club,137.0,10,Tanner's team,113.0,Cincinnati Gun Owners Club,24.0,Gerson,Tanner,gerson,tanner
+2023,16,,1,0,8,Team King,83.0,7,BYE-WEEK,100.0,BYE-WEEK,17.0,Connor,Justin,connor,justin
+2023,17,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,17,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,17,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,17,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,17,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,18,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,18,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,18,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,18,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,18,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,19,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,19,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,19,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,19,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,19,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,20,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,20,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,20,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,20,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,20,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,21,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,21,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,21,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,21,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,21,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,22,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,22,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,22,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,22,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,22,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,23,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,23,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,23,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,23,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,23,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,24,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,24,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,24,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,24,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,24,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,25,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,25,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,25,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,25,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,25,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,26,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,26,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,26,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,26,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,26,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,27,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,27,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,27,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,27,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,27,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,28,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,28,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,28,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,28,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,28,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,29,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,29,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,29,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,29,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,29,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,30,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,30,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,30,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,30,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,30,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,31,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,31,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,31,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,31,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,31,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,32,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,32,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,32,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,32,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,32,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,33,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,33,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,33,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,33,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,33,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,34,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,34,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,34,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,34,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,34,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2023,35,,1,0,3,Magic SkolBus,102.0,5,McDonalds all Day breakfast ,125.0,McDonalds all Day breakfast ,23.0,Marcel,Max,marcel,max
+2023,35,,1,0,4,RidenforBiden BBB,109.0,6,CeeDeeCee Guidelines,127.0,CeeDeeCee Guidelines,18.0,Mike,Nathaniel,mike,nathaniel
+2023,35,,1,0,1,Shoneys Squanch Squad,107.0,2,Cincinnati Gun Owners Club,97.0,Shoneys Squanch Squad,10.0,Ethan,Gerson,ethan,gerson
+2023,35,,1,0,9,R.I.P. Kirko Chainz ,49.0,10,Tanner's team,107.0,Tanner's team,58.0,Tyler,Tanner,tyler,tanner
+2023,35,,1,0,8,Team King,88.0,7,BYE-WEEK,140.0,BYE-WEEK,52.0,Connor,Justin,connor,justin
+2024,1,,0,0,8,Team King,104.0,9,The Nabers Think Im Sellin Dope,107.0,The Nabers Think Im Sellin Dope,3.0,Connor,Tyler,connor,tyler
+2024,1,,0,0,7,Burrow My Face In Your TD's,114.0,1,Shoneys Squanch Squad,131.0,Shoneys Squanch Squad,17.0,Justin,Ethan,justin,ethan
+2024,1,,0,0,2,Cincinnati Gun Owners Club,103.0,6,To Infinity and Bijan,105.0,To Infinity and Bijan,2.0,Gerson,Nathaniel,gerson,nathaniel
+2024,1,,0,0,5,McDonalds all Day breakfast ,129.0,4,RidenforBiden BBB,96.0,McDonalds all Day breakfast ,33.0,Max,Mike,max,mike
+2024,1,,0,0,3,Magic SkolBus,118.0,10,Tanner's team,157.0,Tanner's team,39.0,Marcel,Tanner,marcel,tanner
+2024,2,,0,0,1,Shoneys Squanch Squad,108.0,6,To Infinity and Bijan,121.0,To Infinity and Bijan,13.0,Ethan,Nathaniel,ethan,nathaniel
+2024,2,,0,0,4,RidenforBiden BBB,142.0,8,Team King,71.0,RidenforBiden BBB,71.0,Mike,Connor,mike,connor
+2024,2,,0,0,10,Tanner's team,117.0,9,The Nabers Think Im Sellin Dope,124.0,The Nabers Think Im Sellin Dope,7.0,Tanner,Tyler,tanner,tyler
+2024,2,,0,0,5,McDonalds all Day breakfast ,144.0,7,Burrow My Face In Your TD's,128.0,McDonalds all Day breakfast ,16.0,Max,Justin,max,justin
+2024,2,,0,0,3,Magic SkolBus,110.0,2,Cincinnati Gun Owners Club,87.0,Magic SkolBus,23.0,Marcel,Gerson,marcel,gerson
+2024,3,,0,0,4,RidenforBiden BBB,85.0,10,Tanner's team,89.0,Tanner's team,4.0,Mike,Tanner,mike,tanner
+2024,3,,0,0,1,Shoneys Squanch Squad,113.0,5,McDonalds all Day breakfast ,111.0,Shoneys Squanch Squad,2.0,Ethan,Max,ethan,max
+2024,3,,0,0,6,To Infinity and Bijan,84.0,3,Magic SkolBus,121.0,Magic SkolBus,37.0,Nathaniel,Marcel,nathaniel,marcel
+2024,3,,0,0,8,Team King,70.0,7,Burrow My Face In Your TD's,142.0,Burrow My Face In Your TD's,72.0,Connor,Justin,connor,justin
+2024,3,,0,0,9,The Nabers Think Im Sellin Dope,138.0,2,Cincinnati Gun Owners Club,124.0,The Nabers Think Im Sellin Dope,14.0,Tyler,Gerson,tyler,gerson
+2024,4,,0,0,5,McDonalds all Day breakfast ,105.0,3,Magic SkolBus,136.0,Magic SkolBus,31.0,Max,Marcel,max,marcel
+2024,4,,0,0,7,Burrow My Face In Your TD's,87.0,4,RidenforBiden BBB,118.0,RidenforBiden BBB,31.0,Justin,Mike,justin,mike
+2024,4,,0,0,2,Cincinnati Gun Owners Club,86.0,10,Tanner's team,121.0,Tanner's team,35.0,Gerson,Tanner,gerson,tanner
+2024,4,,0,0,8,Team King,92.0,1,Shoneys Squanch Squad,102.0,Shoneys Squanch Squad,10.0,Connor,Ethan,connor,ethan
+2024,4,,0,0,9,The Nabers Think Im Sellin Dope,123.0,6,To Infinity and Bijan,115.0,The Nabers Think Im Sellin Dope,8.0,Tyler,Nathaniel,tyler,nathaniel
+2024,5,,0,0,7,Burrow My Face In Your TD's,141.0,2,Cincinnati Gun Owners Club,171.0,Cincinnati Gun Owners Club,30.0,Justin,Gerson,justin,gerson
+2024,5,,0,0,5,McDonalds all Day breakfast ,108.0,8,Team King,94.0,McDonalds all Day breakfast ,14.0,Max,Connor,max,connor
+2024,5,,0,0,3,Magic SkolBus,84.0,9,The Nabers Think Im Sellin Dope,107.0,The Nabers Think Im Sellin Dope,23.0,Marcel,Tyler,marcel,tyler
+2024,5,,0,0,4,RidenforBiden BBB,112.0,1,Shoneys Squanch Squad,99.0,RidenforBiden BBB,13.0,Mike,Ethan,mike,ethan
+2024,5,,0,0,10,Tanner's team,136.0,6,To Infinity and Bijan,130.0,Tanner's team,6.0,Tanner,Nathaniel,tanner,nathaniel
+2024,6,,0,0,9,The Nabers Think Im Sellin Dope,130.0,1,Shoneys Squanch Squad,129.0,The Nabers Think Im Sellin Dope,1.0,Tyler,Ethan,tyler,ethan
+2024,6,,0,0,6,To Infinity and Bijan,129.0,4,RidenforBiden BBB,99.0,To Infinity and Bijan,30.0,Nathaniel,Mike,nathaniel,mike
+2024,6,,0,0,10,Tanner's team,121.0,5,McDonalds all Day breakfast ,123.0,McDonalds all Day breakfast ,2.0,Tanner,Max,tanner,max
+2024,6,,0,0,3,Magic SkolBus,108.0,7,Burrow My Face In Your TD's,104.0,Magic SkolBus,4.0,Marcel,Justin,marcel,justin
+2024,6,,0,0,2,Cincinnati Gun Owners Club,92.0,8,Team King,103.0,Team King,11.0,Gerson,Connor,gerson,connor
+2024,7,,0,0,4,RidenforBiden BBB,77.0,9,The Nabers Think Im Sellin Dope,149.0,The Nabers Think Im Sellin Dope,72.0,Mike,Tyler,mike,tyler
+2024,7,,0,0,5,McDonalds all Day breakfast ,137.0,6,To Infinity and Bijan,103.0,McDonalds all Day breakfast ,34.0,Max,Nathaniel,max,nathaniel
+2024,7,,0,0,7,Burrow My Face In Your TD's,142.0,10,Tanner's team,111.0,Burrow My Face In Your TD's,31.0,Justin,Tanner,justin,tanner
+2024,7,,0,0,8,Team King,66.0,3,Magic SkolBus,78.0,Magic SkolBus,12.0,Connor,Marcel,connor,marcel
+2024,7,,0,0,1,Shoneys Squanch Squad,105.0,2,Cincinnati Gun Owners Club,101.0,Shoneys Squanch Squad,4.0,Ethan,Gerson,ethan,gerson
+2024,8,,0,0,9,The Nabers Think Im Sellin Dope,139.0,5,McDonalds all Day breakfast ,145.0,McDonalds all Day breakfast ,6.0,Tyler,Max,tyler,max
+2024,8,,0,0,6,To Infinity and Bijan,128.0,7,Burrow My Face In Your TD's,78.0,To Infinity and Bijan,50.0,Nathaniel,Justin,nathaniel,justin
+2024,8,,0,0,10,Tanner's team,133.0,8,Team King,117.0,Tanner's team,16.0,Tanner,Connor,tanner,connor
+2024,8,,0,0,3,Magic SkolBus,73.0,1,Shoneys Squanch Squad,102.0,Shoneys Squanch Squad,29.0,Marcel,Ethan,marcel,ethan
+2024,8,,0,0,2,Cincinnati Gun Owners Club,134.0,4,RidenforBiden BBB,175.0,RidenforBiden BBB,41.0,Gerson,Mike,gerson,mike
+2024,9,,0,0,7,Burrow My Face In Your TD's,145.0,9,The Nabers Think Im Sellin Dope,134.0,Burrow My Face In Your TD's,11.0,Justin,Tyler,justin,tyler
+2024,9,,0,0,8,Team King,126.0,5,McDonalds all Day breakfast ,128.0,McDonalds all Day breakfast ,2.0,Connor,Max,connor,max
+2024,9,,0,0,6,To Infinity and Bijan,109.0,2,Cincinnati Gun Owners Club,91.0,To Infinity and Bijan,18.0,Nathaniel,Gerson,nathaniel,gerson
+2024,9,,0,0,1,Shoneys Squanch Squad,128.0,4,RidenforBiden BBB,117.0,Shoneys Squanch Squad,11.0,Ethan,Mike,ethan,mike
+2024,9,,0,0,10,Tanner's team,122.0,3,Magic SkolBus,112.0,Tanner's team,10.0,Tanner,Marcel,tanner,marcel
+2024,10,,0,0,8,Team King,104.0,6,To Infinity and Bijan,112.0,To Infinity and Bijan,8.0,Connor,Nathaniel,connor,nathaniel
+2024,10,,0,0,1,Shoneys Squanch Squad,134.0,7,Burrow My Face In Your TD's,115.0,Shoneys Squanch Squad,19.0,Ethan,Justin,ethan,justin
+2024,10,,0,0,9,The Nabers Think Im Sellin Dope,128.0,10,Tanner's team,102.0,The Nabers Think Im Sellin Dope,26.0,Tyler,Tanner,tyler,tanner
+2024,10,,0,0,4,RidenforBiden BBB,87.0,5,McDonalds all Day breakfast ,96.0,McDonalds all Day breakfast ,9.0,Mike,Max,mike,max
+2024,10,,0,0,2,Cincinnati Gun Owners Club,126.0,3,Magic SkolBus,98.0,Cincinnati Gun Owners Club,28.0,Gerson,Marcel,gerson,marcel
+2024,11,,0,0,1,Shoneys Squanch Squad,107.0,10,Tanner's team,91.0,Shoneys Squanch Squad,16.0,Ethan,Tanner,ethan,tanner
+2024,11,,0,0,8,Team King,101.0,4,RidenforBiden BBB,97.0,Team King,4.0,Connor,Mike,connor,mike
+2024,11,,0,0,3,Magic SkolBus,136.0,6,To Infinity and Bijan,112.0,Magic SkolBus,24.0,Marcel,Nathaniel,marcel,nathaniel
+2024,11,,0,0,7,Burrow My Face In Your TD's,144.0,5,McDonalds all Day breakfast ,128.0,Burrow My Face In Your TD's,16.0,Justin,Max,justin,max
+2024,11,,0,0,2,Cincinnati Gun Owners Club,83.0,9,The Nabers Think Im Sellin Dope,176.0,The Nabers Think Im Sellin Dope,93.0,Gerson,Tyler,gerson,tyler
+2024,12,,0,0,4,RidenforBiden BBB,121.0,3,Magic SkolBus,116.0,RidenforBiden BBB,5.0,Mike,Marcel,mike,marcel
+2024,12,,0,0,5,McDonalds all Day breakfast ,114.0,1,Shoneys Squanch Squad,97.0,McDonalds all Day breakfast ,17.0,Max,Ethan,max,ethan
+2024,12,,0,0,10,Tanner's team,126.0,2,Cincinnati Gun Owners Club,128.0,Cincinnati Gun Owners Club,2.0,Tanner,Gerson,tanner,gerson
+2024,12,,0,0,7,Burrow My Face In Your TD's,115.0,8,Team King,118.0,Team King,3.0,Justin,Connor,justin,connor
+2024,12,,0,0,6,To Infinity and Bijan,120.0,9,The Nabers Think Im Sellin Dope,84.0,To Infinity and Bijan,36.0,Nathaniel,Tyler,nathaniel,tyler
+2024,13,,0,0,5,McDonalds all Day breakfast ,128.0,2,Cincinnati Gun Owners Club,142.0,Cincinnati Gun Owners Club,14.0,Max,Gerson,max,gerson
+2024,13,,0,0,4,RidenforBiden BBB,95.0,7,Burrow My Face In Your TD's,133.0,Burrow My Face In Your TD's,38.0,Mike,Justin,mike,justin
+2024,13,,0,0,9,The Nabers Think Im Sellin Dope,118.0,3,Magic SkolBus,92.0,The Nabers Think Im Sellin Dope,26.0,Tyler,Marcel,tyler,marcel
+2024,13,,0,0,1,Shoneys Squanch Squad,134.0,8,Team King,97.0,Shoneys Squanch Squad,37.0,Ethan,Connor,ethan,connor
+2024,13,,0,0,6,To Infinity and Bijan,156.0,10,Tanner's team,122.0,To Infinity and Bijan,34.0,Nathaniel,Tanner,nathaniel,tanner
+2024,14,,0,0,9,The Nabers Think Im Sellin Dope,153.0,8,Team King,112.0,The Nabers Think Im Sellin Dope,41.0,Tyler,Connor,tyler,connor
+2024,14,,0,0,6,To Infinity and Bijan,125.0,1,Shoneys Squanch Squad,101.0,To Infinity and Bijan,24.0,Nathaniel,Ethan,nathaniel,ethan
+2024,14,,0,0,10,Tanner's team,102.0,4,RidenforBiden BBB,95.0,Tanner's team,7.0,Tanner,Mike,tanner,mike
+2024,14,,0,0,3,Magic SkolBus,82.0,5,McDonalds all Day breakfast ,152.0,McDonalds all Day breakfast ,70.0,Marcel,Max,marcel,max
+2024,14,,0,0,2,Cincinnati Gun Owners Club,155.0,7,Burrow My Face In Your TD's,133.0,Cincinnati Gun Owners Club,22.0,Gerson,Justin,gerson,justin
+2024,15,,1,0,9,The Nabers Think Im Sellin Dope,144.0,2,Cincinnati Gun Owners Club,157.0,Cincinnati Gun Owners Club,13.0,Tyler,Gerson,tyler,gerson
+2024,15,,1,0,1,Shoneys Squanch Squad,111.0,10,Tanner's team,179.0,Tanner's team,68.0,Ethan,Tanner,ethan,tanner
+2024,15,,1,0,6,To Infinity and Bijan,115.0,3,Magic SkolBus,127.0,Magic SkolBus,12.0,Nathaniel,Marcel,nathaniel,marcel
+2024,15,,1,0,5,McDonalds all Day breakfast ,100.0,7,Burrow My Face In Your TD's,137.0,Burrow My Face In Your TD's,37.0,Max,Justin,max,justin
+2024,15,,1,0,4,RidenforBiden BBB,97.0,8,Team King,61.0,RidenforBiden BBB,36.0,Mike,Connor,mike,connor
+2024,16,,1,0,10,Tanner's team,130.0,2,Cincinnati Gun Owners Club,145.0,Cincinnati Gun Owners Club,15.0,Tanner,Gerson,tanner,gerson
+2024,16,,1,0,3,Magic SkolBus,125.0,7,Burrow My Face In Your TD's,146.0,Burrow My Face In Your TD's,21.0,Marcel,Justin,marcel,justin
+2024,16,,1,0,9,The Nabers Think Im Sellin Dope,100.0,5,McDonalds all Day breakfast ,150.0,McDonalds all Day breakfast ,50.0,Tyler,Max,tyler,max
+2024,16,,1,0,6,To Infinity and Bijan,114.0,1,Shoneys Squanch Squad,100.0,To Infinity and Bijan,14.0,Nathaniel,Ethan,nathaniel,ethan
+2024,16,,1,0,4,RidenforBiden BBB,128.0,8,Team King,108.0,RidenforBiden BBB,20.0,Mike,Connor,mike,connor
+2024,17,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,17,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,17,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,17,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,17,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,18,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,18,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,18,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,18,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,18,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,19,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,19,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,19,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,19,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,19,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,20,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,20,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,20,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,20,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,20,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,21,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,21,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,21,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,21,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,21,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,22,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,22,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,22,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,22,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,22,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,23,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,23,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,23,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,23,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,23,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,24,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,24,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,24,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,24,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,24,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,25,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,25,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,25,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,25,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,25,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,26,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,26,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,26,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,26,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,26,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,27,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,27,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,27,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,27,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,27,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,28,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,28,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,28,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,28,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,28,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,29,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,29,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,29,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,29,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,29,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,30,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,30,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,30,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,30,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,30,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,31,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,31,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,31,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,31,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,31,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,32,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,32,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,32,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,32,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,32,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,33,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,33,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,33,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,33,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,33,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,34,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,34,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,34,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,34,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,34,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
+2024,35,,1,0,7,Burrow My Face In Your TD's,150.0,2,Cincinnati Gun Owners Club,156.0,Cincinnati Gun Owners Club,6.0,Justin,Gerson,justin,gerson
+2024,35,,1,0,10,Tanner's team,99.0,3,Magic SkolBus,97.0,Tanner's team,2.0,Tanner,Marcel,tanner,marcel
+2024,35,,1,0,5,McDonalds all Day breakfast ,104.0,6,To Infinity and Bijan,169.0,To Infinity and Bijan,65.0,Max,Nathaniel,max,nathaniel
+2024,35,,1,0,9,The Nabers Think Im Sellin Dope,121.0,1,Shoneys Squanch Squad,84.0,The Nabers Think Im Sellin Dope,37.0,Tyler,Ethan,tyler,ethan
+2024,35,,1,0,4,RidenforBiden BBB,92.0,8,Team King,122.0,Team King,30.0,Mike,Connor,mike,connor
